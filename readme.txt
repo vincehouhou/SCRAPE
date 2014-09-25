@@ -1,5 +1,5 @@
 
-*****************************************************************************************
+***************************************************************************************
 A. YELP REVIEWS SCRAPING
 
 # I developed the yelp reviews scraping code based on Lingyun Zhang and Shengjun Pan's previous work. #
@@ -32,7 +32,7 @@ Log File
 
 There will be a log file generated in corresponding folder once you run the code.
 
-*****************************************************************************************
+***************************************************************************************
 B. GOOGLE SEARCHING RESULTS SCRAPING
 
 How to run the code:
@@ -43,7 +43,7 @@ You could setup your searching content here:
 if __name__ == '__main__':
   links = google_scrape("7770 Vickers St Ste 101 (at Convoy St)  San Diego, CA 92111 site:yelp.com")
 
-*****************************************************************************************
+***************************************************************************************
 C. BING SEARCHING RESULTS SCRAPING
 
 How to run the code:
