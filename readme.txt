@@ -21,11 +21,13 @@ links_file: yelp business links file which you get it by running "get business l
 getreviews_bizstart: you will start from which business in links_file.
 reviews_venue_per_file: how many businesses in each output file.
 reviews_folder: where your business reviews output file will be saved.
+
 Run The Code
 
 python scrapeyelp.py getyelplinks 0.conf: get business yelp links
 python scrapeyelp.py getyelpreviews 0.conf: get business yelp reviews
 python scrapeyelp.py getyelpinfos 0.conf: get business yelp infos
+
 Log File
 
 There will be a log file generated in corresponding folder once you run the code.
